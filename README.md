@@ -55,8 +55,6 @@ I am a Data/DevOps/Cloud Architect and Full Stack Python Developer <img src="htt
   <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  Tableau
-  Elastic
 </div>
 
 
