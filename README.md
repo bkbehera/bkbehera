@@ -33,7 +33,7 @@ I am a Data/DevOps/Cloud Architect and Full Stack Python Developer <img src="htt
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-bkbehera-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bkbehera/)
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Toolss :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
